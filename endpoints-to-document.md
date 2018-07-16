@@ -1,0 +1,33 @@
+## To Document
+- [x] Activities index
+- [x] Activities create
+- [x] Create activity with file
+- [x] Hash tags
+- [x] User tags
+- [x] Activity by tag
+- [x] Activity edit
+- [x] Activity edit with file
+- [x] Activity delete
+- [x] Activity like
+- [x] Comment create
+- [x] Comment delete
+- [x] Who's viewed
+- [x] Who's liked
+- [x] Conversation create
+- [x] Load conversations
+- [x] Load messages
+- [x] Create message
+- [x] Chat session create
+- [x] Inviting user to a conversation
+- [x] Leaving a conversation
+- [x] Muting a conversation
+- [x] Profile load
+- [x] Load badges
+- [x] Load stars
+- [x] Award token
+- [x] Load quests
+- [x] Upload profile image
+- [x] Change equipped badge
+- [x] Select trait
+- [x] Update profile
+- [x] User create
